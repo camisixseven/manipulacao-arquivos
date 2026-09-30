@@ -1,0 +1,9 @@
+Camila
+Luiza polizeu
+Manu granzotto
+terto
+richard
+pedro
+f{nome};{idade}
+f{nome};{idade}
+f{nome};{idade}
